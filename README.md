@@ -3,8 +3,8 @@
           
 
 - Pedro Gabriel, 17 years
-- FullStack programmer
-- Currently studying JavaScript - Python
+- Software Engineer
+- Currently studying Java
 
 
 
