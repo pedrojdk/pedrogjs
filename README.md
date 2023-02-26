@@ -4,7 +4,6 @@
 
 - Pedro Gabriel, 17 years
 - Software Engineer
-- Currently studying Java
 
 
 
